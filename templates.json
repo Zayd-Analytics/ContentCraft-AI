@@ -1,0 +1,30 @@
+{
+  "content_types": {
+    "instagram_caption": {
+      "description": "Short, catchy captions for Instagram posts.",
+      "example": "Chasing dreams ✨, one step at a time. #MotivationMonday"
+    },
+    "linkedin_post": {
+      "description": "Professional and insightful posts for LinkedIn.",
+      "example": "Thrilled to share my latest project on AI-driven analytics. Excited for the opportunities this opens up! 🚀 #DataAnalytics #AI"
+    },
+    "twitter_thread": {
+      "description": "Informative threads for Twitter/X.",
+      "example": "1/ The future of AI is not just automation — it’s augmentation. Let’s explore how AI can empower, not replace, humans 🧵👇"
+    },
+    "youtube_script": {
+      "description": "Engaging intro scripts for YouTube videos.",
+      "example": "Welcome back to the channel! Today, we’re diving deep into how AI is transforming everyday life. Stick around till the end for some mind-blowing facts! 🔥"
+    },
+    "blog_summary": {
+      "description": "Concise summaries of long blog posts.",
+      "example": "In this blog, we explored how data visualization helps businesses make informed decisions. Key takeaways: clarity, insights, and better storytelling."
+    },
+    "motivational_quote": {
+      "description": "Short motivational or inspirational quotes.",
+      "example": "Success is not final, failure is not fatal: it is the courage to continue that counts. 💪"
+    }
+  },
+  "tones": ["Professional", "Friendly", "Motivational", "Funny", "Serious", "Storytelling"],
+  "lengths": ["Short", "Medium", "Long"]
+}
